@@ -22,7 +22,3 @@
 	path = headscale
 	url = https://github.com/CloudItYourself/headscale-ciy.git
 	branch = release/0.23.0-alpha3-cert-reload
-[submodule "worker-metrics-provider"]
-	path = worker-metrics-provider
-	url = https://github.com/CloudItYourself/worker-metrics-provider
-	branch = main
