@@ -22,3 +22,7 @@
 	path = headscale
 	url = https://github.com/CloudItYourself/headscale-ciy.git
 	branch = release/0.23.0-alpha3-cert-reload
+[submodule "ciy-kube-scheduler"]
+	path = ciy-kube-scheduler
+	url = https://github.com/CloudItYourself/ciy-kube-scheduler.git
+	branch = main
