@@ -26,3 +26,7 @@
 	path = ciy-kube-scheduler
 	url = https://github.com/CloudItYourself/ciy-kube-scheduler.git
 	branch = main
+[submodule "load_tester"]
+	path = load_tester
+	url = https://github.com/CloudItYourself/load_tester.git
+	branch = main
