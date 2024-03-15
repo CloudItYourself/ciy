@@ -30,3 +30,7 @@
 	path = load_tester
 	url = https://github.com/CloudItYourself/load_tester.git
 	branch = main
+[submodule "ciy-descheduler"]
+	path = ciy-descheduler
+	url = https://github.com/CloudItYourself/ciy-descheduler.git
+	branch = main
