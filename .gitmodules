@@ -34,3 +34,7 @@
 	path = ciy-descheduler
 	url = https://github.com/CloudItYourself/ciy-descheduler.git
 	branch = main
+[submodule "kube-loxilb"]
+	path = kube-loxilb
+	url = https://github.com/CloudItYourself/kube-loxilb.git
+	branch = main
